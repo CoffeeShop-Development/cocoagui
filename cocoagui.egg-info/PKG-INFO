@@ -1,3 +1,39 @@
+Metadata-Version: 2.4
+Name: cocoagui
+Version: 1.2.0
+Summary: The simplest Python GUI library - create beautiful desktop applications with minimal code
+Home-page: https://github.com/mochacinno-dev/CocoaGUI
+Author: Camila 'Mocha' Rose
+Author-email: Camila 'Mocha' Rose <rblossom.dev@gmail.com>
+Maintainer-email: Camila 'Mocha' Rose <rblossom.dev@gmail.com>
+License: MIT
+Project-URL: Homepage, https://github.com/mochacinno-dev/CocoaGUI
+Project-URL: Documentation, https://mochacinno-dev.github.io/CocoaGUI
+Project-URL: Repository, https://github.com/mochacinno-dev/CocoaGUI
+Project-URL: Bug Tracker, https://github.com/mochacinno-dev/CocoaGUI/issues
+Keywords: gui,tkinter,ui,desktop,simple,easy,beginner-friendly
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: User Interfaces
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: author
+Dynamic: home-page
+Dynamic: license-file
+Dynamic: requires-python
+
 # CocoaGUI
 
 **The simplest Python GUI library ever created.**
